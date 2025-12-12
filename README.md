@@ -194,3 +194,4 @@ script_lines <- c(
 writeLines(script_lines, 'pediatric_AML_ECM_reproducible_workflow.R')
 
 print('Created pediatric_AML_ECM_reproducible_workflow.R in the current directory.')
+[![DOI](https://zenodo.org/badge/1114888165.svg)](https://doi.org/10.5281/zenodo.17905858)
